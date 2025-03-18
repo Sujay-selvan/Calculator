@@ -92,7 +92,7 @@ button{
     .overall{
         width: 90%;
         gap: 20px;
-        height: fit-content;
+        height: 400px;
     }
     
     .overall>div>div{
